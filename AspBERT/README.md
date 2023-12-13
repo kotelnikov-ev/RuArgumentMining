@@ -21,4 +21,4 @@ AspBERT – нейросетевая языковая модель типа BERT
 - Эффективность
 - Юридический аспект
 
-Ссылка на модель:https://goo-gl.me/W6gAy.
+Ссылка на модель: [https://goo-gl.me/XoTH2](https://goo-gl.me/XoTH2).
